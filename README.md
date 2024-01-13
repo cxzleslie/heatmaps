@@ -5,10 +5,10 @@ A simple project which dives into the digital presence of Yara's products within
 
 ### Dependencies
 Libraries & packages used include:   <br>
-geopandas: Data manipulation
-shapely: Obtain country map data
-numpy: Numerical computations
-matplotlib: Basic Visualisation
+geopandas: Data manipulation   <br>
+shapely: Obtain country map data   <br>
+numpy: Numerical computations   <br>
+matplotlib: Basic Visualisation   <br>
 seaborn: Advanced Visualisation
 
 All of my country shapefiles were obtained from https://data.humdata.org/
